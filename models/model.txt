@@ -1,0 +1,1 @@
+Github does not allow uploading files larger than 25MB so you'll have to train your own model :). Feel free to mail me if you want mine though.
