@@ -202,10 +202,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/rockpaperscissors](https://github.com/yourusername/rockpaperscissors)
+- **Author**: Raghav Manchanda
+- **Email**: raghavmanchanda17@gmail.com
+- **GitHub**: [@raghavmanchanda17](https://github.com/raghavmanchanda17)
+- **Project Link**: [https://github.com/raghavmanchanda17/rockpaperscissors](https://github.com/raghavmanchanda17/rockpaperscissors)
 
 ---
 
